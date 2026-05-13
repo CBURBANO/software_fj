@@ -1,0 +1,2 @@
+2026-05-11 23:25:27,867 - INFO - SystemManager initialized.
+2026-05-11 23:33:27,685 - INFO - Client added successfully: 2c6821b7-fb2a-43df-88eb-06783d60d550 - Miguel
